@@ -1,0 +1,27 @@
+<link rel="stylesheet" href="/css/addStudent.css">
+<nav>
+<a href="/employee/dashboard">Home</a>
+</nav>
+<section>
+    <h1>Add New Student details </h1>
+<form action="/employee/addstudent" method="POST">
+    <label> Student Batch : </label> <br>
+    <input id="batch" type="text" name="batch" placeholder="Batch Details" required><br><br>
+    <label> Student Name: </label> <br>
+    <input id="name" type="text" name="name" placeholder="Student Name" required><br><br>
+    <label> Student Email-Id : </label> <br>
+    <input id="email" type="text" name="email" placeholder="example@email.com" required><br><br>
+    <label> Student College Name: </label> <br>
+    <input id="college" type="text" name="college" placeholder="college" required><br><br>
+    <label> Student Status : </label> <br>
+    <input id="status" type="text" name="status" placeholder="placed or not_placed" required><br><br>
+    <label> Student DSA Score <label> <br>
+    <input id="DSA_FinalScore" type="text" name="DSA_FinalScore" placeholder="DSA Score" required><br><br>
+    <label> Student WebD score : </label> <br>
+    <input id="WebD_FinalScore" type="text" name="WebD_FinalScore" placeholder="WebD Score" required><br><br>
+    <label> Student React Score : </label><br>
+    <input id="React_FinalScore" type="text" name="React_FinalScore" placeholder="React_FinalScore" required><br><br>
+    <button>Submit</button>
+
+</form>
+</section>
