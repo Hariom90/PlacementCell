@@ -1,5 +1,5 @@
 # PlacementCell
-
+This web application offers users the capability to effortlessly create an account, effectively handle student information, meticulously organize and coordinate interview schedules, allocate students to specific interview slots, seamlessly record and update scores, and diligently maintain the latest results.
 
 
 ## View app at
