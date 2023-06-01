@@ -1,0 +1,22 @@
+
+nav{
+    padding:20px;
+    background-color:rgb(162, 119, 119) ;
+    margin-top: -0.5%;
+    margin-left: -0.5%;
+    margin-right: auto;
+    width: 110%;
+
+}
+nav > a:hover{
+     border-bottom: 4px solid orange;
+     padding-bottom: 11px;
+}
+a{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
