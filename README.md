@@ -25,13 +25,14 @@ git clone https://github.com/Hariom90/PlacementCell.git
 or
 
 Simply download the Zip File and run on your system
-<hr />
+
 ## Running on your local system:
 
  * run the command `npm install` in terminal to install all dependencies
  * run the command `node index` in terminal to start the server on port 8000
  * open up browser and type `localhost:8000` in URL and you're good to go
-
+ 
+<hr />
 ### Tech Used:
 
  * NodeJS
